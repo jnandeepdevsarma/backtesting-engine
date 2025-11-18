@@ -1,4 +1,4 @@
-## Backtesting & Reporting Engine – Automated Monthly PDF Generator (Trade For Sure,Hestrate,etc)
+## Backtesting & Reporting Engine – Automated Monthly PDF Generator (T.F.S,Hestrate,etc)
 Author: Jnandeep Dev Sarma
 
 Contact: jnandeepdevsarma@gmail.com
