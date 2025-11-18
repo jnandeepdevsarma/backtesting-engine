@@ -52,9 +52,9 @@ flowchart TD
 ```bash
 backtesting-engine/
 │
-├─ README.md                    <- this file
-├─ 01_Manual_Backtest_Sample.pdf  <- example user-interactive PDF
-├─ 02_Automated_Algo_Sample.pdf   <- example system-generated PDF
+├─ README.md                    
+├─ 01_Manual_Backtest_Sample.pdf  
+├─ 02_Automated_Algo_Sample.pdf   
 │
 ├─ docs/
 │   ├─ architecture_diagram.png
