@@ -1,0 +1,6 @@
+Date,EntryTime,ExitTime,Direction,EntryPrice,SL,Target,Risk,Reward,Result
+2024-XX-01,09:35,09:58,Short,--,--,--,10,20,Win
+2024-XX-02,10:10,10:42,Short,--,--,--,11,22,Win
+2024-XX-03,09:28,09:55,Long,--,--,--,30,60,Win
+2024-XX-04,11:20,11:38,Long,--,--,--,15,30,Loss
+2024-XX-05,09:25,09:50,Long,--,--,--,30,60,Win

@@ -1,0 +1,6 @@
+Date,Sub Signal 1,Peak,Sub Signal 2, Sub Signal 3, Sub Signal 4,Overview,Decision,1st Trade, 2nd Trade
+2024-XX-01,A,A,B,A,A,Long,CE,XX,XX,
+2024-XX-02,B,B,A,B,A,Short,PE,XX,XX,
+2024-XX-03,A,A,A,B,B,Long,CE,XX,XX,
+2024-XX-04,B,B,B,B,B,Short,PE,XX,XX,
+2024-XX-05,A,B,A,A,B,Long,CE,XX,XX,
